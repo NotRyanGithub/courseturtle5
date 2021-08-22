@@ -35,7 +35,7 @@
 			  what course, but there wasn't an easy way to share and analyze these schedules. This is when the idea struck, 
 			  to make this information to be easily accessible yet secure, so I begin building CourseTurtle. CourseTurle 
 			   was launched In August of 2021. <br><br>
-			   - Sincerly Ryan Rana
+			   - Sincerely, Ryan Rana
 			</p>
 			</div>
 			<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
