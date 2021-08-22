@@ -12,7 +12,7 @@
 <br><br>
 <b>Teachers</b> - Share and find out who all are in your course and what your colleagues are teaching.
 <br><br>
-<b>Parents</b> - See the Courses of your child and their classmates.<br><br>
+<b>Parents</b> - See the courses of your child and their classmates.<br><br>
 
 
 
